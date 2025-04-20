@@ -25,6 +25,8 @@ Abstraction: Interfaces and abstract classes to define core functionalities
 
 
 <h3>Demo</h3>
+<img src = "https://github.com/knoxiboy/Car_Rental_System/blob/main/img/Screenshot%202025-04-20%20154607.png" alt="Output Image">
+<img src = "https://github.com/knoxiboy/Car_Rental_System/blob/main/img/Screenshot%202025-04-20%20154859.png" alt="Output Image">
 
 <h4>Sample Flow:</h4>
 1. Admin adds available cars <br>
