@@ -45,7 +45,7 @@ Abstraction: Interfaces and abstract classes to define core functionalities
 
 <h3>Installation</h3>
 1. Clone the repository: <br>
-git clone  https://github.com/knoxiboy/Car_Rental_System.git
+git clone  https://github.com/knoxiboy/Car_Rental_System.git <br>
 cd Car_Rental_System 
 <br>
 <br>
